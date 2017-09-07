@@ -1,3 +1,3 @@
 # LeafLoadingView
 绚丽的loading动效的实现</br>
-![](https://github.com/hacjy/LeafLoadingView/blob/master/LeafLoadingView/snapshot/LeafLoadingView.gif =100x100)
+<img src="https://github.com/hacjy/LeafLoadingView/blob/master/LeafLoadingView/snapshot/LeafLoadingView.gif" width="200" height ="240" alt="效果图"/>
